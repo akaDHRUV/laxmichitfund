@@ -1,0 +1,130 @@
+.hero {
+  height: 780px;
+  margin: 30px 30px 30px 30px;
+  border-radius: 30px 30px 30px 30px;
+}
+
+.rect {
+  height: 780px;
+  border-radius: 30px 30px 30px 30px;
+  background: #4c27ae;
+}
+
+.logo {
+  width: 300px;
+  height: 60px;
+  border-radius: 100px 100px 100px 100px;
+  background: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.text {
+    font-family: "PT Serif", serif;
+  font-size: 26px;
+  font-weight: 900;
+  opacity: 1;
+  background-color: black;
+  color: white;
+}
+
+.burger {
+  width: 40px;
+  height: 0px;
+  border: 10px 0px 0px 0px;
+  opacity: 0px;
+  border: 4px solid #ed7e02;
+  margin-bottom: 7px;
+  border-radius: 5px;
+}
+
+.dropDown {
+  width: 100px;
+  height: 28px;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 15px;
+  background: #4c27ae;
+}
+
+.top {
+  display: flex;
+  height: fit-content;
+  justify-content: space-evenly;
+  padding-top: 20px;
+  background: #4c27ae;
+  border-radius: 20px 20px 0px 0px;
+}
+.logow {
+  width: 100vw;
+  background: #4c27ae;
+  display: flex;
+  justify-content: center;
+  padding-left: 40px;
+}
+
+.leftbox{
+    width:max-content;
+    padding-left: 100px;
+    padding-top: 100px;
+    background-color: #4c27ae;
+    border-radius: 0px 0px 0px 30px;
+}
+.head {
+  color: white;
+  background-color: #4c27ae;
+  font-family: "PT Serif", serif;
+  font-size: 60px;
+  font-weight: 900;
+  margin-bottom: 70px;
+}
+
+.para{
+    font-family: "PT Serif", serif;
+    color: white;
+  background-color: #4c27ae; 
+  font-size: 20px;
+  margin-bottom: 120px;
+}
+.rightbox{
+    background-color: #4c27ae;
+    border-radius: 0px 0px 30px 0px;
+}
+.rightbox img{
+    width: 556px;
+    height: 646px;
+    top: 170px;
+    left: 924px;
+    gap: 0px;
+    opacity: 0px;
+    border-radius: 0px 0px 30px 0px;
+    background-color: #4c27ae;
+}
+.bigbox{
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+    
+}
+.get{
+    font-size: 30px;
+    font-family: "PT Serif", serif;
+    font-weight: 800;
+    color: black;
+    background-color: #ed7e02;
+    border-radius: 40px;
+    padding: 20px;
+    width: fit-content;
+}
+
+.trustedBy{
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    padding: 40px;
+    padding-left: 80px;
+    padding-right: 80px;
+}

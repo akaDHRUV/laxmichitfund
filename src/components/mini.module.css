@@ -1,0 +1,40 @@
+.container{
+    color: white;
+    padding-left: 170px;
+    margin-bottom: 150px;
+}
+.mobimg img{
+    height: 400px;
+    width: 400px;
+}
+.head{
+    font-size: 40px;
+    font-weight: 900;
+    
+}
+
+.h1h3{
+    text-align: right;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.h2{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.box{
+    display: flex;
+    justify-content:space-between;
+    /* padding-left: 50px; */
+}
+
+.desc{
+    margin-top: 50px;
+
+}
+.para{
+    margin-bottom: 40px;
+    font-size: 15px;
+    font-weight: 500;
+    width: 600px;
+}

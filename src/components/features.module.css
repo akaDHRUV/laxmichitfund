@@ -1,0 +1,133 @@
+.desc {
+  color: white;
+  font-family: "PT Serif", serif;
+  font-size: 40px;
+  font-weight: 900;
+  line-height: 50px;
+  text-align: left;
+  width: 574px;
+  height: 126px;
+  padding-left:100px;
+  margin-top: 50px;
+}
+
+.first {
+  width: 700px;
+  height: 200px;
+ 
+  border-radius: 40px 40px 40px 40px;
+  border: 10px 10px 10px 10px;
+  opacity: 0px;
+  border: 10px dashed #4c27ae;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.img img {
+  width: 120px;
+  height: 120px;
+  top: 1551px;
+  left: 150px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.firstText {
+  color: white;
+  font-size: 40px;
+}
+
+.second {
+  width: 500px;
+  height: 200px;
+
+  border-radius: 40px 40px 40px 40px;
+  opacity: 0px;
+  background: #ed7e02;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.imgm img {
+  width: 120px;
+  height: 120px;
+  background: #ed7e02;
+}
+.imgm{
+    background: #ed7e02;
+}
+
+.secondText {
+  color: white;
+  font-size: 40px;
+  background: #ed7e02;
+}
+
+.topbox{
+    display: flex;
+    flex-direction: row;
+    margin: 50px;
+    justify-content: space-around;
+}
+
+.firstb{
+    width: 500px;
+    height: 200px;
+  
+    border-radius: 40px 40px 40px 40px;
+    opacity: 0px;
+    background: #ed7e02;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;  
+}
+
+.imgbf{
+    background: #ed7e02;
+}
+.imgbf img{
+    width: 120px;
+    height: 120px;
+    background: #ed7e02;
+}
+.firstbText{
+    color: white;
+  font-size: 40px;
+  background: #ed7e02;  
+}
+
+.secondb{
+    width: 700px;
+    height: 200px;
+   
+    border-radius: 40px 40px 40px 40px;
+    border: 10px 10px 10px 10px;
+    opacity: 0px;
+    border: 10px dashed #4c27ae;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.secondbText{
+    color: white;
+    font-size: 40px;
+}
+.imgbs img {
+    width: 120px;
+    height: 120px;
+    top: 1551px;
+    left: 150px;
+    gap: 0px;
+    opacity: 0px;
+  }
+
+  .bottombox{
+    display: flex;
+    flex-direction: row;
+    margin: 50px;
+    justify-content: space-around;
+  }

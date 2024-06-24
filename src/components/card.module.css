@@ -1,0 +1,57 @@
+.card{
+    padding-top: 50px;   
+height: fit-content;
+
+
+border-radius: 40px 40px 40px 40px;
+opacity: 0px;
+background-color: white;
+display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+margin: 50px;
+}
+.imgdig img{
+    width: 250px;
+height: 250px;
+background-color: white;
+
+}
+.imgdig{
+    background-color: #fff;
+}
+.rightbox{
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 20px;
+}
+
+.para{
+    width:500px;
+    color: black;
+    background-color: #fff;
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+
+
+.head{
+    color: black;
+    font-size: 40px;
+    font-weight: 900;
+    background-color: #fff;
+    
+    margin-bottom: 25px;
+}
+.get{
+    font-size: 30px;
+    font-family: "PT Serif", serif;
+    font-weight: 800;
+    color: white;
+    background-color: #ed7e02;
+    border-radius: 40px;
+    padding: 20px;
+    width: fit-content;
+    /* background-color: #fff; */
+}

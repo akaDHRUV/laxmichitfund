@@ -1,0 +1,44 @@
+.container{
+    color: white;
+    margin-top: 80px;
+}
+.title{
+    font-size: 40px;
+    font-weight: 600;
+    margin-bottom: 100px;
+    margin-left: 150px;
+}
+.box{
+    background-color: #4C27AE;
+    display: flex;
+    justify-content: space-between;
+    width: 1100px;
+height: max-content;
+
+margin: auto;
+margin-bottom: 30px;
+transform: rotate(3deg);
+padding: 40px;
+border-radius: 30px 30px 30px 30px;
+
+}
+.head{
+   background: #4C27AE;
+    font-size: 30px;
+    font-weight: 400;
+    padding-right: 100px;
+    padding-left: 50px;
+    border-radius: 30px 30px 30px 30px;
+}
+.icon{
+    background: #4C27AE;
+    padding-right: 50px;
+    padding-left: 100px;
+    transform: rotate(3deg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+span{
+    background-color: #4C27AE;
+}
